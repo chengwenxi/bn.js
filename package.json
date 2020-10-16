@@ -25,9 +25,6 @@
     "url": "https://github.com/shineabel/bn/issues"
   },
   "homepage": "https://github.com/shineabel/bn",
-  "browser": {
-    "buffer": "./node_modules/buffer/index.js"
-  },
    "dependencies": {
     "buffer": "5.2.0"
   },
